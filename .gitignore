@@ -1,0 +1,13 @@
+*
+!.gitignore
+!.gitmodules
+
+!LICENSE
+!README.md
+
+!Makefile
+
+!blocking_queue.h
+!blocking_queue.c
+!thrdpool.h
+!thrdpool.c
